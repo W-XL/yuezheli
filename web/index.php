@@ -4,7 +4,7 @@
  * WEIZAN is NOT a free software, it under the license terms, visited http://www.012wz.com/ for more details.
  */
 define('IN_SYS', true);
-require '../framework/bootstrap.inc.php ';
+require '../framework/bootstrap.inc.php';
 require IA_ROOT . '/web/common/bootstrap.sys.inc.php';
 load()->web('common');
 load()->web('template');
